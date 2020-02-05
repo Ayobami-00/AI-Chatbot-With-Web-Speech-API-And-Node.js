@@ -1,0 +1,2 @@
+# Simple-AI-Chatbot-With-Web-Speech-API-And-Node.js
+This repository contains the code for the Simple AI Chatbot With Web Speech API And Node.js. The Web Speech API’s SpeechRecognition interface is used to listen your voice from a microphone and your message is sent to API.ai (the natural language processing platform) as a text string and once the AI from the API.ai returns the reply text back, the SpeechSynthesis interface to give it a synthetic voice.
